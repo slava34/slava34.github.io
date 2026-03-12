@@ -43,6 +43,6 @@ Workflow `.github/workflows/deploy-pages.yml` автоматически:
 
 После успешного workflow сайт будет доступен на [https://slava34.github.io/](https://slava34.github.io/).
 
-## Источник диапазонов
+
 
 
