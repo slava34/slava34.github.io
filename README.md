@@ -45,8 +45,4 @@ Workflow `.github/workflows/deploy-pages.yml` автоматически:
 
 ## Источник диапазонов
 
-Диапазоны импортированы в `src/data/ranges.ts` из PDF:
 
-- `С какими руками заходить в игру`
-- использованы только первые 8 страниц
-- range charts взяты со стр. 4–8 (UTG, MP, HJ, CO, BTN)
